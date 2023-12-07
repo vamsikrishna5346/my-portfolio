@@ -74,7 +74,8 @@
             <span class="close-button" data-modal="modal2">&times;</span>
             <h2>Project 2</h2>
             <p>This is a brief description of Project 2. You can provide more details about your project here.</p>
-            <img src="project2.jpg" alt="Project 2">
+            <button class="glow-on-hover" type="button"><a href="https://vamsikrishna5346.github.io/hospital-website/">Project 1</a></button><br><hr>
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/004/493/181/small/hospital-building-for-healthcare-background-illustration-with-ambulance-car-doctor-patient-nurses-and-medical-clinic-exterior-free-vector.jpg" alt="Project 2">
         </div>
     </div>
 <script src="script.js"></script>
