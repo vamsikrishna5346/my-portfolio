@@ -49,6 +49,11 @@
             <p>Project 2 is a blog platform built with React and Node.js. It allows users to write and publish articles, and it includes features like user authentication and comments. Explore my coding skills in action!</p>
             <button class="modal-button" data-modal="modal2">Details</button>
         </div>
+         <div class="project">
+            <h3>Project 2</h3>
+            <p>Project 2 is a blog platform built with React and Node.js. It allows users to write and publish articles, and it includes features like user authentication and comments. Explore my coding skills in action!</p>
+            <button class="modal-button" data-modal="modal2">Details</button>
+        </div>
     </section>
     <section id="contact" class="content">
         <h2>Contact Me</h2>
